@@ -1,0 +1,20 @@
+{
+  "name": "HTMLToPDF",
+  "version": "0.4.0",
+  "description": "Provide a web interface to convert uploaded HTML file to PDF file. ",
+  "main": "app.js",
+  "dependencies": {
+    "agenda": "^0.6.28",
+    "express": "^4.10.8",
+    "multer": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML to PDF"
+  ],
+  "author": "Anthony S. Wu <anthonyspwu@gmail.com>",
+  "license": "MIT"
+}
